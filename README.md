@@ -8,3 +8,8 @@ a. date
 3 . fiscal year
 ### Data validation
 world file data givven validate it in power bi 
+
+### finance view dashboard 
+1. last_sales month
+2. fact_actual_estimate append
+3. 
